@@ -1,0 +1,1 @@
+int isnumber(int num);
